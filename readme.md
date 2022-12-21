@@ -2,8 +2,8 @@
 
 > A cross platform CLI Alerts with colors and colored symbols along with emojis🥳🥳🥳 for success, info, warning and error.Works on both MAC OS and Windows
 
-![emojify-cli-alert-editor](images/editor.png)
-
+<!-- ![emojify-cli-alert-editor](images/editor.png) -->
+<img src="./images/editor.png" width="800" />
 # install
 ```sh
 npm install emojify-cli-alerts
