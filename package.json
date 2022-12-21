@@ -1,0 +1,29 @@
+{
+    "name": "emojify-cli-alerts",
+    "version": "1.0.0",
+    "description": "A cross platform CLI Alerts with colors and colored symbols along with emojis🥳🥳🥳 for success, info, warning and error.Works on both MAC OS and Windows",
+    "license": "unlicensed",
+    "author": {
+        "name":"asif",
+        "email" : "itsmeshaikasifali@gmmail.com",
+        "url":"https://www.linkedin.com/in/asif-shaik-906a78209/"
+    },
+    "main": "index.js",
+    "files": ["index.js"],
+    "keywords": [
+        "cli-alerts",
+        "cli-alert-emojify",
+        "emojify-cli-alert",
+        "emoji-cli",
+        "emoji-cli-alert",
+        "alerts",
+        "emoji"
+    ],
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "log-symbols": "^4.0.0"
+    },
+    "scripts": {
+        "test": "node test.js"
+    }
+}
