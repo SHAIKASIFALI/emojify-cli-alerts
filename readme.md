@@ -4,6 +4,7 @@
 
 <!-- ![emojify-cli-alert-editor](images/editor.png) -->
 <img src="./images/editor.png" width="800" />
+
 # install
 ```sh
 npm install emojify-cli-alerts
